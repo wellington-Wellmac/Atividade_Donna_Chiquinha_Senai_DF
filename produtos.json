@@ -1,0 +1,73 @@
+[
+    {
+        "nome":"Ovo Delicia premium(340g)",
+        "descricao":"O tradicional Ovo da casa",
+        "valor": 190.90,
+        "quantidade": 0,
+        "img":"produto.png"
+
+    },
+    {
+        "nome":"Ovo tradicional dona Chiquinha (350g)",
+        "descricao":"Uma grande opção em compra, Com muito chocolate e um recheio delicioso",
+        "valor": 89.90,
+        "quantidade": 0,
+        "img":"produto_1.png"
+
+    },
+    {
+        "nome":"Ovo Selectiun(250g)",
+        "descricao":"Espectacular Ovo de pascoa com deliciosos bombons e uma supresinha com sabor dos especial",
+        "valor": 69.00,
+        "quantidade": 0,
+        "img":"produto_2.png"
+
+    },
+    {
+        "nome":"Ovo Wellmac Maltine (320g)",
+        "descricao":"Combinação do chocolate tradicional com meio amargo e um delicioso recheio",
+        "valor": 95.50,
+        "quantidade": 0,
+        "img":"produto_3.png"
+
+    },
+    {
+        "nome":"Ovo Delicius Estar (380g)",
+        "descricao":"Um delicioso chocolate acompanhado com lindos bombons",
+        "valor": 179.90,
+        "quantidade": 0,
+        "img":"produto_4.png"
+
+    },
+    {
+        "nome":"Ovo especial DC 1 (400g)",
+        "descricao":"O mais saboros e o mais vendido",
+        "valor": 140.00,
+        "quantidade": 0,
+        "img":"produto_5.png"
+    },
+    {
+        "nome":"Ovo especial DC 2 (400g)",
+        "descricao":"Combinação do chocolate tradicional com meio amargo e um delicioso recheio",
+        "valor": 140.00,
+        "quantidade": 0,
+        "img":"produto_6.png"
+
+    },
+    {
+        "nome":"Ovo Especial Premium (400g)",
+        "descricao":"Um delicioso chocolate acompanhado com lindos bombons",
+        "valor": 120.00,
+        "quantidade": 0,
+        "img":"produto_7.png"
+
+    },
+    {
+        "nome":"Ovo especial da Casa(400g)",
+        "descricao":"O mais saboros e o mais vendido",
+        "valor": 89.00,
+        "quantidade": 0,
+        "img":"produto_8.png"
+    }
+    
+]
